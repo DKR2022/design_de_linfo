@@ -6,3 +6,4 @@ Dans le cadre de la formation (GSI)[
 
 Version 1.1.1
 
+La version de ma page https://dkr2022.github.io/design_de_linfo/
